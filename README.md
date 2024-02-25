@@ -1,0 +1,1 @@
+Data ini dikumpulkan dari [data_pariwisata](https://opendata.jabarprov.go.id/id) yang dikombinasikan dengan berbagai literatur review dan artikel serta background penulis ketika mengunjungi beberapa destinasi wisata tersebut sampai tanggal 24 Februari 2024.
